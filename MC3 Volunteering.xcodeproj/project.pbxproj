@@ -163,7 +163,6 @@
 				AAADC8FDE4AB23146CE4981B /* Pods-MC3 Volunteering.debug.xcconfig */,
 				9C5DA073C85EA18D4B0C4C24 /* Pods-MC3 Volunteering.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -627,7 +626,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = "MC3 Volunteering/MC3 Volunteering.entitlements";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = MTU6Z4VFLV;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = "MC3 Volunteering/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -647,7 +646,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = "MC3 Volunteering/MC3 Volunteering.entitlements";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = MTU6Z4VFLV;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = "MC3 Volunteering/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",

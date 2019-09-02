@@ -29,7 +29,7 @@ class HomeCustomTableViewCell: UITableViewCell {
         
         tvHomeNamaAcaraLabel.text = model[RemoteEvents.name] as! String
         
-        tvHomeJumlahTemanLabel.text = "30"
+        tvHomeJumlahTemanLabel.text = "30 friends joined"
         
         tvHomeLokasiDanTanggalLabel.text = "\(model[RemoteEvents.location] as! String), \(model[RemoteEvents.time] as! String)"
         
